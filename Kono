@@ -1,5 +1,5 @@
 /**
- * @name konoxz
+ * @name konoxzx
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -63,7 +63,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: Lexend;
+  --main-font: 0;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 220px;
