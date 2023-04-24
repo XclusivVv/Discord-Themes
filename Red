@@ -18,7 +18,7 @@
   --success-color: #000000;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/XgxO2Uw.jpg');
+  --background-image: url('https://wallpaperboat.com/wp-content/uploads/2020/04/red-aesthetic-wallpaper-1920x1080-10.jpg');
   --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
