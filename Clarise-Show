@@ -1,5 +1,5 @@
 /**
- * @name Clarise_Show
+ * @name clariseshowv2
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -14,9 +14,9 @@
 :root {
   --main-color: #5E6082;
   --hover-color: #494C63;
-  --success-color: #643359;
+  --success-color: #06050A;
   --danger-color: #982929;
-  --url-color: #9F4E7B;
+  --url-color: #B454AC;
   --background-image: url('https://imgur.com/UOaLLhF.gif');
   --background-shading: 0%;
   --background-position: center;
@@ -55,7 +55,7 @@
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: #9F4E7B;
+  --channel-unread: #B454AC;
   --channel-color: rgb(100,51,89,1);
   --muted-color: rgb(73,76,99,1);
   --online-color: #43b581;
